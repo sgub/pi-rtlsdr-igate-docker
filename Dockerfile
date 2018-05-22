@@ -1,3 +1,4 @@
+# based on raspbian stretch
 FROM sgub/rpi-rtlsdr-base
 
 MAINTAINER Yao Leilei
